@@ -1,2 +1,2 @@
 # Semo-Recreation-Activities
-An app which shows what activites are happening in the Recreations centre, what they do and where and what time they will meet 
+We are developing a calendar for the SEMO Rec Center that allows students to easily view and keep track of club meetings and events. The system will display clubs along with their meeting dates, times, and locations. This will make it easier for students to find and attend organizations they are interested in. Authorized users will be able to add new clubs, create meetings, and update/remove meeting information when schedules change. The goal of the project is to provide a centralized and easy to use calendar that keeps Rec Center club information organized and up to date for SEMO students and staff. 
